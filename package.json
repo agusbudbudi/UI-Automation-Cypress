@@ -1,0 +1,20 @@
+{
+  "name": "cypress_automation",
+  "version": "1.0.0",
+  "description": "cypress automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "e2e",
+    "test",
+    "cypress",
+    "automation"
+  ],
+  "author": "agus budiman",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
