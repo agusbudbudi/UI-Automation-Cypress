@@ -1,5 +1,5 @@
 describe('e2e Checkout Journey', () => {
-  it('e2e purchase single nproduct', () => {
+  it('e2e purchase single product', () => {
     //navigate to url
     cy.visit('https://www.saucedemo.com')
     //input username and password
